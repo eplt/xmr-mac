@@ -7,7 +7,7 @@ Binary releases of xmr-stak for macOS.
 Just been playing around with Monero (XMR) and can't find compiled versions for macOS. So I compiled and shared these binaries for anyone who wants to mine Monero on their computer but don't want to compile their own app. You will still need basic level of understanding of macOS and Terminal app to run these. Credits to the original developers, check out their repo and donate to them accordingly. https://github.com/fireice-uk/xmr-stak 
 
 
-## Get started
+## Getting started
 
 Start off by installing Brew on your Mac.
 
